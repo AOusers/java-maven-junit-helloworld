@@ -144,7 +144,7 @@
             <configuration>
               <fileSets>
                 <fileSet>
-                  <directory>${project.build.directory}</directory>
+                  <directory>src/main/java/com/example/javamavenjunithelloworld</directory>
                   <includes>
                     <include>*.exec</include>
                   </includes>
