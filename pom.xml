@@ -144,13 +144,13 @@
             <configuration>
               <fileSets>
                 <fileSet>
-                  <directory>src/main/java/com/example/javamavenjunithelloworld</directory>
+                  <directory>/home/runner/work/java-maven-junit-helloworld/java-maven-junit-helloworld/src/main/java/com/example/javamavenjunithelloworld</directory>
                   <includes>
                     <include>*.exec</include>
                   </includes>
                 </fileSet>
               </fileSets>
-              <destFile>src/test/java/com/example/javamavenjunithelloworld</destFile>
+              <destFile>/home/runner/work/java-maven-junit-helloworld/java-maven-junit-helloworld/src/test/java/com/example/javamavenjunithelloworld</destFile>
             </configuration>
           </execution>
           <execution>
@@ -166,7 +166,7 @@
             </goals>
             <configuration>
               <dataFile>src/test/java/com/example/javamavenjunithelloworld</dataFile>
-              <outputDirectory>java-maven-junit-helloworld/.github/workflows</outputDirectory>
+              <outputDirectory>/home/runner/work/java-maven-junit-helloworld/java-maven-junit-helloworld/.github/workflows</outputDirectory>
             </configuration>
           </execution>
         </executions>
